@@ -1,0 +1,104 @@
+*{
+    font-family: 'Inter', sans-serif;
+}
+
+section {
+    padding: 16px;
+}
+
+.pg__card{
+    overflow: hidden;
+    max-width: 600px;
+    margin: auto;
+    display: flex;
+    flex-direction: column;
+    flex-wrap: wrap;
+    box-shadow: 1px 1px 10px 1px rgba(22, 22, 22, 0.2);
+    border-radius: 6px;
+}
+
+.pg__card_join{
+    padding: 36px;
+}
+
+.pg__card div{
+    display: flex;
+    flex-direction: row;
+}
+
+.pg__card_join h2 {
+    color: #2bb3b1;
+    margin-bottom: 30px;
+}
+
+.pg__card_join h4 {
+    color: #bfdf32;
+    margin-bottom: 14px;
+}
+
+.pg__card_join p {
+    color: #777777;
+    font-size: 14px;
+    font-weight: bold;
+    line-height: 180%;
+}
+
+.pg__card_subscribe {
+    background-color: #2bb3b1;
+    color: whitesmoke;
+    flex: 1;
+    padding: 36px;
+
+}
+
+.pg__card_subscribe p{
+    font-size: 14px;
+    margin-bottom: 36px;
+}
+
+.pg__card_subscribe-price{
+    display: inline;
+}
+
+.pg__card_subscribe-price_span{
+    font-weight: 100;
+}
+
+.pg__card_subscribe-btn{
+    display: block;
+    padding: 16px;
+    margin-top: 8px;
+    width: 100%;
+    background-color: #bfdf32;
+    color: #fff;
+    border: none;
+    border-radius: 6px;
+    box-shadow: 2px 2px 10px 1px rgba(0, 0, 0, 0.2);
+    transition: all 0.6s;
+}
+
+.pg__card_subscribe-btn:hover{
+    padding: 20px;
+    background-color: #b4ce41;
+}
+
+.pg__card_why-us {
+    background-color: #4abebd;
+    color: whitesmoke;
+    flex: 1;
+    padding: 36px;
+}
+
+.pg__card_why-us p{
+    font-size: 12px;
+}
+
+
+@media only screen and (max-width: 575.98px) {
+
+    .pg__card div{
+        display: flex;
+        flex-direction: column;
+    }
+    
+}
