@@ -30,7 +30,7 @@ Users should be able to:
 
 ### Links
 
-- Live Site URL: [URL](https://luminous-paprenjak-526501.netlify.app)
+- Live Site URL: [Live Demo](https://luminous-paprenjak-526501.netlify.app)
 
 ## My process
 
@@ -59,7 +59,7 @@ Users should be able to:
 
 ### Useful resources
 
-- [Example resource 1](https://blog.hubspot.com/website/center-div-css#:~:text=To%20center%20a%20div%20horizontally%20on%20a%20page%2C%20simply%20set,equally%20between%20the%20two%20margins) - This helped see different ways to center a div.
+- [Hubspot - Center Div in CSS](https://blog.hubspot.com/website/center-div-css#:~:text=To%20center%20a%20div%20horizontally%20on%20a%20page%2C%20simply%20set,equally%20between%20the%20two%20margins) - This helped see different ways to center a div.
 
 ## Author
 - Frontend Mentor - [@Master-Osaro](https://www.frontendmentor.io/profile/yourusername)
