@@ -62,5 +62,5 @@ Users should be able to:
 - [Hubspot - Center Div in CSS](https://blog.hubspot.com/website/center-div-css#:~:text=To%20center%20a%20div%20horizontally%20on%20a%20page%2C%20simply%20set,equally%20between%20the%20two%20margins) - This helped see different ways to center a div.
 
 ## Author
-- Frontend Mentor - [@Master-Osaro](https://www.frontendmentor.io/profile/yourusername)
+- Frontend Mentor - [@Master-Osaro](https://www.frontendmentor.io/profile/master-osaro)
 - Twitter - [@iyoha_osaro](https://www.twitter.com/yourusername)
